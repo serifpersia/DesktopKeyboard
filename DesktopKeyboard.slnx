@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DesktopKeyboard.csproj" />
+  <Project Path="desktop_keyboard_setup/desktop_keyboard_setup.vdproj" Type="Installer">
+    <Build />
+  </Project>
+</Solution>
